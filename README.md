@@ -1,1 +1,1 @@
-https://cy6erlem0n.github.io/fantastyc/
+[Link](https://cy6erlem0n.github.io/fantastyc/)
