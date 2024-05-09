@@ -1,0 +1,71 @@
+.sas {
+  background-image: url(images/1.jpg); /* изображение  фона*/
+  opacity: 0.9;
+}
+
+.rounded-img2 { /* создание класа и правила для цсс*/
+  width: 600px;
+  height: 600px;
+  border-radius:100%;
+  box-shadow: 0 0 120px rgba(247, 247, 247, 0.8);
+  padding: 0.8em;
+  margin-bottom: 2em;
+
+}
+
+.rounded-img { /* создание класа и правила для цсс*/
+  width: 80%;
+  border-radius:1%;
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.8);
+  padding: 0.1em;
+  margin-bottom: 2em;
+}
+
+.card{ /* округление карточек, пложение текста*/
+  border-radius: 1em;
+  text-align: left;
+ }
+
+ .card:hover { /* динамическое выделение курсора */
+  background-color: rgba(0, 0, 0, 0.1);
+ }
+
+ .card img {
+  border-radius: 1em; /*округление картинок*/
+  width: 100%;    /*размер картинок*/
+  margin: auto;   /*положение картинок*/
+ }
+
+ .rounded-img1 { /* создание класа и правила для цсс*/
+  width: 80;
+  border-radius:40%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  padding: 0,4em;
+  margin-bottom: 1em;
+}
+
+.cardl {
+  width: 80%;
+  float: left;
+  margin-left: 2%;
+}
+
+.cardr {
+  width: 78%;
+  float: right;
+  margin-left: 20%;
+  text-align: left;
+}
+
+.ngmn {
+  margin-left: 10%;
+}
+
+.textek {
+  border-radius:8%;
+  background-color: white;
+  color:rgb(73, 70, 71);
+  font-size: 20px;
+  opacity: 0.7; /* прозрачность*/
+
+}
